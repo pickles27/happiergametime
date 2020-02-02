@@ -1,0 +1,1 @@
+//here we can put functions that do stuff. like validate a thing, or convert unit
